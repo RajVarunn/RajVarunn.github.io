@@ -5,7 +5,7 @@ page-layout: full
 ---
 
 In completing this assessment, I extensively utilized **Generative AI (GenAI)** tools — primarily **ChatGPT by OpenAI**. I chose this tool because of its advanced natural language capabilities, accessibility, and ease of integration with my workflow. ChatGPT is known for providing structured and articulate responses across a wide range of domains, including programming, writing, and research.
-
+ 
 ---
 
 ### How GenAI Helped Me
