@@ -1,0 +1,41 @@
+---
+title: "Hackathons"
+format: html
+page-layout: full
+---
+
+## National AI Student Challenge (NAISC)
+
+![Interpersonal](images/AI.jpg){width=550px}
+
+I'm currently participating in the **National AI Student Challenge (NAISC)**, organized by **AI Singapore**, with support from **IMDA** and other partners. 
+
+This initiative has engaged over **2,000 students** and aims to:
+
+- Empower youth with practical AI knowledge
+- Provide real-world exposure through hands-on challenges
+- Foster innovation and creative problem-solving
+- Nurture the next generation of AI users, practitioners, and creators
+
+Through this challenge, I’m gaining valuable experience working on real-world AI problems, collaborating with like-minded peers, and exploring impactful use cases for AI in industry and society.
+
+---
+
+## SCDF Hackathon
+
+![SCDF](images/SCDF.jpg){width=350px}
+
+I’m also taking part in the **SCDF Hackathon**, a national-level innovation challenge focused on **emergency response, public safety**, and **urban resilience**.
+
+This hackathon provides a platform to:
+
+- Develop tech-driven solutions to enhance Singapore’s emergency services
+- Collaborate with domain experts from the Singapore Civil Defence Force (SCDF)
+- Apply design thinking, GenAI, and data-driven strategies to critical real-world problems
+- Present innovative solutions that could potentially be adopted by SCDF or its partners
+
+Participating in both hackathons is helping me sharpen my technical, teamwork, and critical thinking skills — all while contributing toward meaningful public good.
+
+---
+
+Stay tuned for project updates and results!

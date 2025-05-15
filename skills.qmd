@@ -1,0 +1,55 @@
+---
+title: "My Skills"
+format: html
+page-layout: full
+---
+
+## Interpersonal Competencies
+
+
+- Problem-solving  
+- Critical Thinking  
+- Adaptability  
+- Perseverance  
+- Leadership  
+- Effective Communication  
+- Project Management  
+- Teamwork  
+
+---
+
+## Programming Languages
+
+![Programming](images/programming.jpg){width=550px}
+
+- Python  
+- JavaScript  
+- SQL  
+- C  
+- HTML  
+- CSS  
+- Java  
+- PHP  
+
+---
+
+##  Database Management
+
+![Database](images/database.jpg){width=550px}
+
+- MySQL  
+- PostgreSQL  
+- SQLite  
+
+---
+
+## Software Tools
+
+![Software](images/software.jpg){width=550px}
+
+- Jupyter Notebook  
+- Git  
+- Docker  
+- Postman  
+
+---

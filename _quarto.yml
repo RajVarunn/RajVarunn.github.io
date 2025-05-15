@@ -3,22 +3,36 @@ project:
   output-dir: docs
 
 website:
-  title: "personal_website"
-  favicon: favicon.jpg
+  title: "Varun Raj | Portfolio"
+  favicon: images/favicon.jpg
   navbar:
-    logo: logo.jpg
+    logo: images/logo.jpg
+    background: "#1c1c1c"  # Optional: darker navbar background
     left:
-      - href: index.qmd
-        text: Home
-      - href: projects.qmd
+      - text: Home
+        href: index.qmd
+      - text: Projects
+        href: projects.qmd
+      - text: Skills
+        href: skills.qmd
+      - text: Hackathon
+        href: hackathon.qmd
+      - text: Reflection
+        href: reflection.qmd
+    right:
+      - icon: github
+        href: https://github.com/RajVarunn
+        aria-label: GitHub
 
 format:
   html:
-    theme: darkly
+    theme: 
+      light: flatly
+      dark: darkly
     css: styles.css
     toc: true
     toc-depth: 3
     toc-location: left
-
-
-
+    smooth-scroll: true
+    link-external-icon: true
+    code-copy: true

@@ -6,7 +6,7 @@ page-layout: full
 
 ![My Photo](images/myphoto.jpg){width=550px style="border-radius: 50%; margin-bottom: 1rem;"}
 
-## 👋 Hello, I'm Raj!
+## Hello, I'm Raj!
 
 Hi! I am Suyamprakasam Varadaraj. You can call me Varun or Raj.
 
@@ -36,9 +36,9 @@ I enjoy traveling because it gives me the chance to engage with different cultur
 
 ---
 
-## 📬 Contact Me
+## Contact Me
 
 Want to collaborate or have a chat? Reach out via:
 
-- 📧 Email: varunvaradaraj1@gmail.com
-- 🐦 Github: [@rajvarunn](https://github.com/RajVarunn)
+- Email: varunvaradaraj1@gmail.com
+- Github: [@rajvarunn](https://github.com/RajVarunn)

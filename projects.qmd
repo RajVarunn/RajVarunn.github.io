@@ -4,7 +4,7 @@ format: html
 page-layout: full
 ---
 
-## 🧠 NLP (Sentiment Analysis)
+## NLP (Sentiment Analysis)
 
 <iframe 
   src="https://1drv.ms/p/c/3bc8d5e73005a3fd/IQTrLQz636YnQordI9XellSfAcLRM-4XpztJHwCsqX9YcPE?em=2&amp;wdAr=1.7777777777777777" 
@@ -27,7 +27,7 @@ These enhancements led to the selection of the best-performing model by the end 
 
 ---
 
-## 🎮 Game Engine: *Spell & Seek*
+## Game Engine: *Spell & Seek*
 
 <iframe src="https://1drv.ms/p/c/3bc8d5e73005a3fd/IQRSb6LaKDR6RYkCCm3Ehb9tARKxTaDF46x1ltlP430S2oU?em=2&amp;wdAr=1.7777777777777777" width="476px" height="288px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
 
@@ -41,7 +41,7 @@ The system emphasizes sound **software architecture**, using SOLID principles an
 
 ---
 
-## 🧩 Abstract Game Engine
+## Abstract Game Engine
 
 <iframe src="https://1drv.ms/p/c/3bc8d5e73005a3fd/UQT9owUw59XIIIA76XQAAAAAAAvzcfbmUiATTNg?em=2&amp;wdAr=1.7777777777777777" width="476px" height="288px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
 
@@ -56,7 +56,7 @@ Using a manager-based architecture, each subsystem (e.g., rendering, input, logi
 
 ---
 
-## 📊 Job Market Analysis
+## Job Market Analysis
 
 ![Jobs](images/jobs.png){width=350px style="margin:10px"}
 

@@ -17,8 +17,8 @@
     "objectID": "index.html#hello-im-raj",
     "href": "index.html#hello-im-raj",
     "title": "Welcome to My Portfolio",
-    "section": "👋 Hello, I’m Raj!",
-    "text": "👋 Hello, I’m Raj!\nHi! I am Suyamprakasam Varadaraj. You can call me Varun or Raj.\nI am currently pursuing an undergraduate program in Applied Artificial Intelligence (BSc Honours) at Singapore Institute of Technology.\nI am especially enthusiastic about the transformative potential of artificial intelligence and its ability to revolutionize different industries. My objective is to harness the power of AI to drive meaningful change and create significant improvements for both communities and organizations.\nI am known for my confident and proactive approach, which allows me to lead with both clarity and effectiveness. This approach enables me to navigate complex situations and drive initiatives forward with precision. My leadership style involves not only guiding teams but also inspiring and motivating individuals to reach their full potential. I bring critical thinking and strong communication skills to the table, complemented by an open-minded attitude, a hardworking ethic, and a positive approach to learning. These qualities help me tackle challenges effectively and foster a collaborative and engaged environment."
+    "section": "Hello, I’m Raj!",
+    "text": "Hello, I’m Raj!\nHi! I am Suyamprakasam Varadaraj. You can call me Varun or Raj.\nI am currently pursuing an undergraduate program in Applied Artificial Intelligence (BSc Honours) at Singapore Institute of Technology.\nI am especially enthusiastic about the transformative potential of artificial intelligence and its ability to revolutionize different industries. My objective is to harness the power of AI to drive meaningful change and create significant improvements for both communities and organizations.\nI am known for my confident and proactive approach, which allows me to lead with both clarity and effectiveness. This approach enables me to navigate complex situations and drive initiatives forward with precision. My leadership style involves not only guiding teams but also inspiring and motivating individuals to reach their full potential. I bring critical thinking and strong communication skills to the table, complemented by an open-minded attitude, a hardworking ethic, and a positive approach to learning. These qualities help me tackle challenges effectively and foster a collaborative and engaged environment."
   },
   {
     "objectID": "index.html#my-interests",
@@ -31,8 +31,8 @@
     "objectID": "index.html#contact-me",
     "href": "index.html#contact-me",
     "title": "Welcome to My Portfolio",
-    "section": "📬 Contact Me",
-    "text": "📬 Contact Me\nWant to collaborate or have a chat? Reach out via:\n\n📧 Email: varunvaradaraj1@gmail.com\n🐦 Github: @rajvarunn"
+    "section": "Contact Me",
+    "text": "Contact Me\nWant to collaborate or have a chat? Reach out via:\n\nEmail: varunvaradaraj1@gmail.com\nGithub: @rajvarunn"
   },
   {
     "objectID": "projects.html",
@@ -52,21 +52,91 @@
     "objectID": "projects.html#game-engine-spell-seek",
     "href": "projects.html#game-engine-spell-seek",
     "title": "My Projects",
-    "section": "🎮 Game Engine: Spell & Seek",
-    "text": "🎮 Game Engine: Spell & Seek\n\nThis is an embedded &lt;a target=\"_blank\" href=\"https://office.com\"&gt;Microsoft Office&lt;/a&gt; presentation, powered by &lt;a target=\"_blank\" href=\"https://office.com/webapps\"&gt;Office&lt;/a&gt;.\n\nThis project showcases Spell & Seek, an educational Java game built on the abstract game engine created in Phase 1. Designed to encourage early language development in children, it promotes:\n\nSpelling and word recognition through maze navigation\nCognitive growth via spatial-word association\nAudio support that vocalizes target words to enhance listening and pronunciation\n\nThe system emphasizes sound software architecture, using SOLID principles and design patterns like Factory and Observer, while maintaining a clean separation between engine logic and game functionality."
+    "section": "Game Engine: Spell & Seek",
+    "text": "Game Engine: Spell & Seek\n\nThis is an embedded &lt;a target=\"_blank\" href=\"https://office.com\"&gt;Microsoft Office&lt;/a&gt; presentation, powered by &lt;a target=\"_blank\" href=\"https://office.com/webapps\"&gt;Office&lt;/a&gt;.\n\nThis project showcases Spell & Seek, an educational Java game built on the abstract game engine created in Phase 1. Designed to encourage early language development in children, it promotes:\n\nSpelling and word recognition through maze navigation\nCognitive growth via spatial-word association\nAudio support that vocalizes target words to enhance listening and pronunciation\n\nThe system emphasizes sound software architecture, using SOLID principles and design patterns like Factory and Observer, while maintaining a clean separation between engine logic and game functionality."
   },
   {
     "objectID": "projects.html#abstract-game-engine",
     "href": "projects.html#abstract-game-engine",
     "title": "My Projects",
-    "section": "🧩 Abstract Game Engine",
-    "text": "🧩 Abstract Game Engine\n\nThis is an embedded &lt;a target=\"_blank\" href=\"https://office.com\"&gt;Microsoft Office&lt;/a&gt; presentation, powered by &lt;a target=\"_blank\" href=\"https://office.com/webapps\"&gt;Office&lt;/a&gt;.\n\nWe developed a modular abstract engine that serves as a solid foundation for future games. It demonstrates core OOP principles:\n\nEncapsulation\nInheritance\nPolymorphism\nAbstraction\n\nUsing a manager-based architecture, each subsystem (e.g., rendering, input, logic) is independently extendable. While areas like dynamic level generation could be enhanced, the engine is well-suited for scalable game development."
+    "section": "Abstract Game Engine",
+    "text": "Abstract Game Engine\n\nThis is an embedded &lt;a target=\"_blank\" href=\"https://office.com\"&gt;Microsoft Office&lt;/a&gt; presentation, powered by &lt;a target=\"_blank\" href=\"https://office.com/webapps\"&gt;Office&lt;/a&gt;.\n\nWe developed a modular abstract engine that serves as a solid foundation for future games. It demonstrates core OOP principles:\n\nEncapsulation\nInheritance\nPolymorphism\nAbstraction\n\nUsing a manager-based architecture, each subsystem (e.g., rendering, input, logic) is independently extendable. While areas like dynamic level generation could be enhanced, the engine is well-suited for scalable game development."
   },
   {
     "objectID": "projects.html#job-market-analysis",
     "href": "projects.html#job-market-analysis",
     "title": "My Projects",
-    "section": "📊 Job Market Analysis",
-    "text": "📊 Job Market Analysis\n\n\n\nJobs\n\n\nOur team created a software platform to explore current job trends and predict outcomes in the employment landscape. Key features:\n\nInteractive dashboard for analyzing demand, qualifications, and salary trends\nPredictive salary model based on experience, age, and job type\nJob recommendation engine using classification algorithms based on user input (e.g., experience, gender, education, expected salary)\n\nThis tool provides career insights for individuals and strategic data for organizations looking to understand or forecast workforce dynamics."
+    "section": "Job Market Analysis",
+    "text": "Job Market Analysis\n\n\n\nJobs\n\n\nOur team created a software platform to explore current job trends and predict outcomes in the employment landscape. Key features:\n\nInteractive dashboard for analyzing demand, qualifications, and salary trends\nPredictive salary model based on experience, age, and job type\nJob recommendation engine using classification algorithms based on user input (e.g., experience, gender, education, expected salary)\n\nThis tool provides career insights for individuals and strategic data for organizations looking to understand or forecast workforce dynamics."
+  },
+  {
+    "objectID": "skills.html",
+    "href": "skills.html",
+    "title": "My Skills",
+    "section": "",
+    "text": "Problem-solving\n\nCritical Thinking\n\nAdaptability\n\nPerseverance\n\nLeadership\n\nEffective Communication\n\nProject Management\n\nTeamwork"
+  },
+  {
+    "objectID": "skills.html#interpersonal-competencies",
+    "href": "skills.html#interpersonal-competencies",
+    "title": "My Skills",
+    "section": "",
+    "text": "Problem-solving\n\nCritical Thinking\n\nAdaptability\n\nPerseverance\n\nLeadership\n\nEffective Communication\n\nProject Management\n\nTeamwork"
+  },
+  {
+    "objectID": "skills.html#programming-languages",
+    "href": "skills.html#programming-languages",
+    "title": "My Skills",
+    "section": "Programming Languages",
+    "text": "Programming Languages\n\n\n\nProgramming\n\n\n\nPython\n\nJavaScript\n\nSQL\n\nC\n\nHTML\n\nCSS\n\nJava\n\nPHP"
+  },
+  {
+    "objectID": "skills.html#database-management",
+    "href": "skills.html#database-management",
+    "title": "My Skills",
+    "section": "Database Management",
+    "text": "Database Management\n\n\n\nDatabase\n\n\n\nMySQL\n\nPostgreSQL\n\nSQLite"
+  },
+  {
+    "objectID": "skills.html#software-tools",
+    "href": "skills.html#software-tools",
+    "title": "My Skills",
+    "section": "Software Tools",
+    "text": "Software Tools\n\n\n\nSoftware\n\n\n\nJupyter Notebook\n\nGit\n\nDocker\n\nPostman"
+  },
+  {
+    "objectID": "reflection.html",
+    "href": "reflection.html",
+    "title": "Reflection on the use of GenAI",
+    "section": "",
+    "text": "In completing this assessment, I extensively utilized Generative AI (GenAI) tools — primarily ChatGPT by OpenAI. I chose this tool because of its advanced natural language capabilities, accessibility, and ease of integration with my workflow. ChatGPT is known for providing structured and articulate responses across a wide range of domains, including programming, writing, and research.\n\n\nHow GenAI Helped Me\nGenAI was incredibly useful in various stages of this project:\n\nIdea Structuring: I used ChatGPT to help outline the content for multiple sections, including my project descriptions and skills breakdown.\nMarkdown and Quarto Assistance: When formatting pages like index.qmd, projects.qmd, and skills.qmd, ChatGPT guided me on proper syntax and provided ready-to-use code blocks.\nCSS Support: Helped me enhance the visual design of my portfolio by improving layout, typography, spacing, and overall consistency—making the site look more polished and professional.\nEmbedding Tips: When I needed to embed PowerPoint slides, ChatGPT suggested using Google Slides and OneDrive methods via iframe, which was extremely helpful.\n\n\n\n\nBenefits of Using GenAI\n\nTime Efficiency: It helped me avoid spending excessive time on technical troubleshooting or blank-page syndrome.\nIdea Expansion: Sometimes I started with a rough idea, and ChatGPT expanded it into well-structured content.\nCoding Aid: When I was unsure about certain HTML/Markdown structures or Quarto configs, GenAI assisted with the syntax.\n\n\n\n\nChallenges I Encountered\n\nOver-Reliance Risk: It’s easy to depend too much on GenAI suggestions without critical evaluation.\nGeneric Responses: Occasionally, the responses lacked depth or originality, especially in more creative or reflective tasks.\nFormatting Adjustments: Although the tool suggested Markdown/HTML snippets, some fine-tuning was needed to fit the Quarto environment exactly.\n\n\n\n\nLooking Ahead\nI believe GenAI tools like ChatGPT will continue to play a crucial role in my academic and professional journey. In future:\n\nFor Study: I can use it to understand complex topics, generate practice questions, and get help with assignments.\nFor Work: It can help in writing reports, automating documentation, generating code, and even assisting in communication tasks.\n\n\n\n\nFinal Thoughts\nUsing GenAI has been a highly enriching experience. While it’s important to apply personal judgment and creativity, I see these tools as powerful collaborators — especially when used ethically and responsibly. They can boost productivity, expand thinking, and make digital creation more accessible for everyone."
+  },
+  {
+    "objectID": "reflection.html#reflection-on-the-use-of-genai",
+    "href": "reflection.html#reflection-on-the-use-of-genai",
+    "title": "Reflection on the use of GenAI",
+    "section": "",
+    "text": "In completing this assessment, I extensively utilized Generative AI (GenAI) tools — primarily ChatGPT by OpenAI. I chose this tool because of its advanced natural language capabilities, accessibility, and ease of integration with my workflow. ChatGPT is known for providing structured and articulate responses across a wide range of domains, including programming, writing, and research.\n\n\n\nGenAI was incredibly useful in various stages of this project:\n\nIdea Structuring: I used ChatGPT to help outline the content for multiple sections, including my project descriptions and skills breakdown.\nMarkdown and Quarto Assistance: When formatting pages like index.qmd, projects.qmd, and skills.qmd, ChatGPT guided me on proper syntax and provided ready-to-use code blocks.\nWriting Support: It assisted me in improving the tone, grammar, and clarity of my writing, making the portfolio sound more polished and professional.\nEmbedding Tips: When I needed to embed PowerPoint slides, ChatGPT suggested using Google Slides and OneDrive methods via iframe, which was extremely helpful.\n\n\n\n\n\n\nTime Efficiency: It helped me avoid spending excessive time on technical troubleshooting or blank-page syndrome.\nIdea Expansion: Sometimes I started with a rough idea, and ChatGPT expanded it into well-structured content.\nCoding Aid: When I was unsure about certain HTML/Markdown structures or Quarto configs, GenAI acted like an instant tutor.\n\n\n\n\n\n\nOver-Reliance Risk: It’s easy to depend too much on GenAI suggestions without critical evaluation.\nGeneric Responses: Occasionally, the responses lacked depth or originality, especially in more creative or reflective tasks.\nFormatting Adjustments: Although the tool suggested Markdown/HTML snippets, some fine-tuning was needed to fit the Quarto environment exactly.\n\n\n\n\n\nI believe GenAI tools like ChatGPT will continue to play a crucial role in my academic and professional journey. In future:\n\nFor Study: I can use it to understand complex topics, generate practice questions, and get help with assignments.\nFor Work: It can help in writing reports, automating documentation, generating code, and even assisting in communication tasks.\n\n\n\n\n\nUsing GenAI has been a highly enriching experience. While it’s important to apply personal judgment and creativity, I see these tools as powerful collaborators — especially when used ethically and responsibly. They can boost productivity, expand thinking, and make digital creation more accessible for everyone."
+  },
+  {
+    "objectID": "hackathon.html",
+    "href": "hackathon.html",
+    "title": "Hackathons",
+    "section": "",
+    "text": "Interpersonal\n\n\nI’m currently participating in the National AI Student Challenge (NAISC), organized by AI Singapore, with support from IMDA and other partners.\nThis initiative has engaged over 2,000 students and aims to:\n\nEmpower youth with practical AI knowledge\nProvide real-world exposure through hands-on challenges\nFoster innovation and creative problem-solving\nNurture the next generation of AI users, practitioners, and creators\n\nThrough this challenge, I’m gaining valuable experience working on real-world AI problems, collaborating with like-minded peers, and exploring impactful use cases for AI in industry and society."
+  },
+  {
+    "objectID": "hackathon.html#national-ai-student-challenge-naisc",
+    "href": "hackathon.html#national-ai-student-challenge-naisc",
+    "title": "Hackathons",
+    "section": "",
+    "text": "Interpersonal\n\n\nI’m currently participating in the National AI Student Challenge (NAISC), organized by AI Singapore, with support from IMDA and other partners.\nThis initiative has engaged over 2,000 students and aims to:\n\nEmpower youth with practical AI knowledge\nProvide real-world exposure through hands-on challenges\nFoster innovation and creative problem-solving\nNurture the next generation of AI users, practitioners, and creators\n\nThrough this challenge, I’m gaining valuable experience working on real-world AI problems, collaborating with like-minded peers, and exploring impactful use cases for AI in industry and society."
+  },
+  {
+    "objectID": "hackathon.html#scdf-hackathon",
+    "href": "hackathon.html#scdf-hackathon",
+    "title": "Hackathons",
+    "section": "SCDF Hackathon",
+    "text": "SCDF Hackathon\n\n\n\nSCDF\n\n\nI’m also taking part in the SCDF Hackathon, a national-level innovation challenge focused on emergency response, public safety, and urban resilience.\nThis hackathon provides a platform to:\n\nDevelop tech-driven solutions to enhance Singapore’s emergency services\nCollaborate with domain experts from the Singapore Civil Defence Force (SCDF)\nApply design thinking, GenAI, and data-driven strategies to critical real-world problems\nPresent innovative solutions that could potentially be adopted by SCDF or its partners\n\nParticipating in both hackathons is helping me sharpen my technical, teamwork, and critical thinking skills — all while contributing toward meaningful public good.\n\nStay tuned for project updates and results!"
   }
 ]
