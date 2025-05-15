@@ -1,0 +1,69 @@
+---
+title: "My Projects"
+format: html
+page-layout: full
+---
+
+## 🧠 NLP (Sentiment Analysis)
+
+<iframe 
+  src="https://1drv.ms/p/c/3bc8d5e73005a3fd/IQTrLQz636YnQordI9XellSfAcLRM-4XpztJHwCsqX9YcPE?em=2&amp;wdAr=1.7777777777777777" 
+  width="800" 
+  height="500" 
+  frameborder="0">
+  This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation,
+  powered by <a target="_blank" href="https://office.com/webapps">Office</a>.
+</iframe>
+
+The team built an NLP model to distinguish positive and negative tweets from an open-source Twitter dataset. The project involved:
+
+- **Exploratory Data Analysis** to understand the dataset  
+- **Feature Engineering** to generate valuable features  
+- **Modeling** using SVM & Random Forest classifiers  
+- **Hyperparameter Tuning** via grid search  
+- Integration of **VADER sentiment scoring**, **offset multiplier fusion**, and **custom rule-based random forest models** to improve accuracy
+
+These enhancements led to the selection of the best-performing model by the end of the notebook, with meaningful improvements in sentiment classification accuracy.
+
+---
+
+## 🎮 Game Engine: *Spell & Seek*
+
+<iframe src="https://1drv.ms/p/c/3bc8d5e73005a3fd/IQRSb6LaKDR6RYkCCm3Ehb9tARKxTaDF46x1ltlP430S2oU?em=2&amp;wdAr=1.7777777777777777" width="476px" height="288px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
+
+This project showcases *Spell & Seek*, an educational Java game built on the abstract game engine created in Phase 1. Designed to encourage early language development in children, it promotes:
+
+- Spelling and word recognition through maze navigation
+- Cognitive growth via spatial-word association
+- Audio support that vocalizes target words to enhance listening and pronunciation
+
+The system emphasizes sound **software architecture**, using SOLID principles and design patterns like **Factory** and **Observer**, while maintaining a clean separation between **engine logic** and **game functionality**.
+
+---
+
+## 🧩 Abstract Game Engine
+
+<iframe src="https://1drv.ms/p/c/3bc8d5e73005a3fd/UQT9owUw59XIIIA76XQAAAAAAAvzcfbmUiATTNg?em=2&amp;wdAr=1.7777777777777777" width="476px" height="288px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
+
+We developed a **modular abstract engine** that serves as a solid foundation for future games. It demonstrates core **OOP principles**:
+
+- **Encapsulation**
+- **Inheritance**
+- **Polymorphism**
+- **Abstraction**
+
+Using a manager-based architecture, each subsystem (e.g., rendering, input, logic) is independently extendable. While areas like **dynamic level generation** could be enhanced, the engine is well-suited for scalable game development.
+
+---
+
+## 📊 Job Market Analysis
+
+![Jobs](images/jobs.png){width=350px style="margin:10px"}
+
+Our team created a software platform to explore current **job trends** and predict outcomes in the employment landscape. Key features:
+
+- **Interactive dashboard** for analyzing demand, qualifications, and salary trends
+- **Predictive salary model** based on experience, age, and job type
+- **Job recommendation engine** using classification algorithms based on user input (e.g., experience, gender, education, expected salary)
+
+This tool provides career insights for individuals and strategic data for organizations looking to understand or forecast workforce dynamics.

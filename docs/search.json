@@ -33,5 +33,40 @@
     "title": "Welcome to My Portfolio",
     "section": "📬 Contact Me",
     "text": "📬 Contact Me\nWant to collaborate or have a chat? Reach out via:\n\n📧 Email: varunvaradaraj1@gmail.com\n🐦 Github: @rajvarunn"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "My Projects",
+    "section": "",
+    "text": "This is an embedded &lt;a target=\"_blank\" href=\"https://office.com\"&gt;Microsoft Office&lt;/a&gt; presentation, powered by &lt;a target=\"_blank\" href=\"https://office.com/webapps\"&gt;Office&lt;/a&gt;.\n\nThe team built an NLP model to distinguish positive and negative tweets from an open-source Twitter dataset. The project involved:\n\nExploratory Data Analysis to understand the dataset\n\nFeature Engineering to generate valuable features\n\nModeling using SVM & Random Forest classifiers\n\nHyperparameter Tuning via grid search\n\nIntegration of VADER sentiment scoring, offset multiplier fusion, and custom rule-based random forest models to improve accuracy\n\nThese enhancements led to the selection of the best-performing model by the end of the notebook, with meaningful improvements in sentiment classification accuracy."
+  },
+  {
+    "objectID": "projects.html#nlp-sentiment-analysis",
+    "href": "projects.html#nlp-sentiment-analysis",
+    "title": "My Projects",
+    "section": "",
+    "text": "This is an embedded &lt;a target=\"_blank\" href=\"https://office.com\"&gt;Microsoft Office&lt;/a&gt; presentation, powered by &lt;a target=\"_blank\" href=\"https://office.com/webapps\"&gt;Office&lt;/a&gt;.\n\nThe team built an NLP model to distinguish positive and negative tweets from an open-source Twitter dataset. The project involved:\n\nExploratory Data Analysis to understand the dataset\n\nFeature Engineering to generate valuable features\n\nModeling using SVM & Random Forest classifiers\n\nHyperparameter Tuning via grid search\n\nIntegration of VADER sentiment scoring, offset multiplier fusion, and custom rule-based random forest models to improve accuracy\n\nThese enhancements led to the selection of the best-performing model by the end of the notebook, with meaningful improvements in sentiment classification accuracy."
+  },
+  {
+    "objectID": "projects.html#game-engine-spell-seek",
+    "href": "projects.html#game-engine-spell-seek",
+    "title": "My Projects",
+    "section": "🎮 Game Engine: Spell & Seek",
+    "text": "🎮 Game Engine: Spell & Seek\n\nThis is an embedded &lt;a target=\"_blank\" href=\"https://office.com\"&gt;Microsoft Office&lt;/a&gt; presentation, powered by &lt;a target=\"_blank\" href=\"https://office.com/webapps\"&gt;Office&lt;/a&gt;.\n\nThis project showcases Spell & Seek, an educational Java game built on the abstract game engine created in Phase 1. Designed to encourage early language development in children, it promotes:\n\nSpelling and word recognition through maze navigation\nCognitive growth via spatial-word association\nAudio support that vocalizes target words to enhance listening and pronunciation\n\nThe system emphasizes sound software architecture, using SOLID principles and design patterns like Factory and Observer, while maintaining a clean separation between engine logic and game functionality."
+  },
+  {
+    "objectID": "projects.html#abstract-game-engine",
+    "href": "projects.html#abstract-game-engine",
+    "title": "My Projects",
+    "section": "🧩 Abstract Game Engine",
+    "text": "🧩 Abstract Game Engine\n\nThis is an embedded &lt;a target=\"_blank\" href=\"https://office.com\"&gt;Microsoft Office&lt;/a&gt; presentation, powered by &lt;a target=\"_blank\" href=\"https://office.com/webapps\"&gt;Office&lt;/a&gt;.\n\nWe developed a modular abstract engine that serves as a solid foundation for future games. It demonstrates core OOP principles:\n\nEncapsulation\nInheritance\nPolymorphism\nAbstraction\n\nUsing a manager-based architecture, each subsystem (e.g., rendering, input, logic) is independently extendable. While areas like dynamic level generation could be enhanced, the engine is well-suited for scalable game development."
+  },
+  {
+    "objectID": "projects.html#job-market-analysis",
+    "href": "projects.html#job-market-analysis",
+    "title": "My Projects",
+    "section": "📊 Job Market Analysis",
+    "text": "📊 Job Market Analysis\n\n\n\nJobs\n\n\nOur team created a software platform to explore current job trends and predict outcomes in the employment landscape. Key features:\n\nInteractive dashboard for analyzing demand, qualifications, and salary trends\nPredictive salary model based on experience, age, and job type\nJob recommendation engine using classification algorithms based on user input (e.g., experience, gender, education, expected salary)\n\nThis tool provides career insights for individuals and strategic data for organizations looking to understand or forecast workforce dynamics."
   }
 ]
