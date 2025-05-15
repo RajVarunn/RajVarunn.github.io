@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "personal_website",
+    "title": "Welcome to My Portfolio",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "My Photo"
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,26 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html#hello-im-raj",
+    "href": "index.html#hello-im-raj",
+    "title": "Welcome to My Portfolio",
+    "section": "👋 Hello, I’m Raj!",
+    "text": "👋 Hello, I’m Raj!\nHi! I am Suyamprakasam Varadaraj. You can call me Varun or Raj.\nI am currently pursuing an undergraduate program in Applied Artificial Intelligence (BSc Honours) at Singapore Institute of Technology.\nI am especially enthusiastic about the transformative potential of artificial intelligence and its ability to revolutionize different industries. My objective is to harness the power of AI to drive meaningful change and create significant improvements for both communities and organizations.\nI am known for my confident and proactive approach, which allows me to lead with both clarity and effectiveness. This approach enables me to navigate complex situations and drive initiatives forward with precision. My leadership style involves not only guiding teams but also inspiring and motivating individuals to reach their full potential. I bring critical thinking and strong communication skills to the table, complemented by an open-minded attitude, a hardworking ethic, and a positive approach to learning. These qualities help me tackle challenges effectively and foster a collaborative and engaged environment."
+  },
+  {
+    "objectID": "index.html#my-interests",
+    "href": "index.html#my-interests",
+    "title": "Welcome to My Portfolio",
+    "section": "My Interests",
+    "text": "My Interests\n\nSports\nI am passionate about sports and use them to maintain a healthy lifestyle. I particularly enjoy running and playing ball sports, with a special fondness for football. My sports background includes being part of the track and field team at Singapore Polytechnic, where I also served as president of the long-distance team. Additionally, I was the vice-captain for cricket at Ping Yi Secondary School and currently captain my own football team formed with friends. I love exploring new sports and am currently part of the Singapore Institute of Technology football varsity team.\n\n\nPhotography\nI recently discovered a passion for photography, which I’ve come to truly enjoy. It offers me a fresh perspective and the unique ability to freeze moments in time, allowing me to capture memories that will accompany me through life. I particularly enjoy taking portraits and photographing architecture. I’m also eager to explore videography in the future!\n\n\nTraveling\nI enjoy traveling because it gives me the chance to engage with different cultures and experiences. Every trip offers new experiences and opportunities that deepen my awareness of various lifestyles. Traveling allows me to make lifelong connections and to connect with people from all walks of life."
+  },
+  {
+    "objectID": "index.html#contact-me",
+    "href": "index.html#contact-me",
+    "title": "Welcome to My Portfolio",
+    "section": "📬 Contact Me",
+    "text": "📬 Contact Me\nWant to collaborate or have a chat? Reach out via:\n\n📧 Email: varunvaradaraj1@gmail.com\n🐦 Github: @rajvarunn"
   }
 ]
